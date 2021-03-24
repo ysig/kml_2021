@@ -6,10 +6,10 @@ Kaggle-Ranking of Kernels:
 | Linear-Regression  |  0.60466  |
 | SVM  | 0.55866  |
 | Kernel-Ridge-Regression | 0.61933 |
-| Spectrum_k6 | 0.62600 |
-| Gappy_q8_l6 | 0.62866  |
-| mismatch_m1_k8 | 0.65400 |
-| mismatch_m1_k9 | 0.67333 |
+| Spectrum (k=6) | 0.62600 |
+| Gappy (q=8, l=6) | 0.62866  |
+| mismatch (m=1, k=8) | 0.65400 |
+| mismatch (m=1, k=9) | 0.67333 |
 
 # Details about this code-base
 
