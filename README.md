@@ -1,5 +1,5 @@
 # kernels-2021
-Kaggle-Ranking of Kernels (Public Leaderboard):
+Kaggle-Ranking of Kernels (**Public Leaderboard**):
 
 | Method  | Kaggle Accuracy |
 | ------------- | ------------- |
