@@ -1,5 +1,9 @@
+**Final Ranking**
+Private Leaderboard: 0.67733
+(mismatch (m=1, k=9))
+
 # kernels-2021
-Kaggle-Ranking of Kernels:
+Kaggle-Ranking of Kernels (Public Leaderboard):
 
 | Method  | Kaggle Accuracy |
 | ------------- | ------------- |
