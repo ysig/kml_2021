@@ -1,7 +1,3 @@
-**Final Ranking**  
-Private Leaderboard: 0.67733  
-(mismatch (m=1, k=9))
-
 # kernels-2021
 Kaggle-Ranking of Kernels (Public Leaderboard):
 
@@ -14,6 +10,10 @@ Kaggle-Ranking of Kernels (Public Leaderboard):
 | Gappy (q=8, l=6) | 0.62866  |
 | mismatch (m=1, k=8) | 0.65400 |
 | mismatch (m=1, k=9) | 0.67333 |
+
+**Final Ranking**  
+Private Leaderboard: 0.67733  
+(mismatch (m=1, k=9))
 
 # Details about this code-base
 
